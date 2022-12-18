@@ -1,6 +1,6 @@
 # SEVN Stack - Build a file upload app
 
-## Author: Dev AT
+## Author: Dev VN
 
 ## Install dependencies for server
 ### cd server ---> npm install
